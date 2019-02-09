@@ -1,0 +1,41 @@
+M_MOS:MAN OF STEEL:ACTION:Superman flies bla..:3.0:WK:N
+----------------------------------------------------------------------------
+M_POC:PIRATES OF THE CAR:ACTION:Made up movie dont't...:3.0:WK:Y
+M_POC_RIC_20052018:20052018:none:none:none
+----------------------------------------------------------------------------
+M_AAU:Avengers Age of Ultron:ACTION:Description of avengers...:3.0:WK:N
+M_AAU_SHM_20052018:20052018:25052018:3.0:0.0
+----------------------------------------------------------------------------
+M_PPN:Peter Pan:FANTASY:Epic adventures await Peter...:3.0:WK:N
+M_PPN_JIC_20052018:20052018:30052018:3.0:4.5
+----------------------------------------------------------------------------
+M_SSQ:Suicide squad:ACTION:Suicide is an option...:3.0:WK:Y
+M_SSQ_JIN_20052018:20052018:30052018:3.0:4.5
+M_SSQ_SHA_20052018:20052018:none:none:none
+----------------------------------------------------------------------------
+M_GOT:Game of Thrones:ACTION:Need marks to pass...:5.0:NR:N
+----------------------------------------------------------------------------
+M_NAR:Naruto:ANIME:Please give me marks and Naruto...:5.0:NR:Y
+M_NAR_FLN_20052018:20052018:none:none:none
+----------------------------------------------------------------------------
+M_GOZ:Godzilla:ACTION:Godzilla cant save me...:5.0:NR:N
+M_GOZ_VLI_20052018:20052018:21052018:5.0:0.0
+----------------------------------------------------------------------------
+M_BAT:Batman:ACTION:Batman programs in Java...:5.0:NR:N
+M_BAT_RIC_20052018:20052018:23052018:5.0:2.5
+----------------------------------------------------------------------------
+M_MNC:Monsters Inc:CARTOON:Java is a monster...:5.0:NR:Y
+M_MNC_SHA_20052018:20052018:23052018:5.0:2.5
+M_MNC_SHM_20052018:20052018:none:none:none
+----------------------------------------------------------------------------
+G_IGA:Injustice Gods Among Us:Fighting:What if our heroes...:20.0:Xbox 360,PS4:N
+----------------------------------------------------------------------------
+G_SKY:Skyrim:Role-Playing:Go on an epic adventure...:20.0:Xbox 360,PC,PS4:Y
+G_SKY_RIC_20052018:20052018:none:none:none
+----------------------------------------------------------------------------
+G_ESO:Elder Scrolls Online:MMORPG:Epic questing bha..:20.0:Xbox 360,PS4,PC:N
+G_ESO_PIC_20052018:20052018:08062018:20.0:0.0
+----------------------------------------------------------------------------
+G_WIT:Witcher:Action-RPG:Hunt monsters with swords...:20.0:Xbox 360,PS4,PC:N
+G_WIT_ABI_20052018:20052018:21062018:20.0:21.0
+----------------------------------------------------------------------------
