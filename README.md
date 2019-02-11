@@ -1,4 +1,4 @@
-# MovieMaster
+# Store Management system
 For this assignment I needed to write a console application in Java which 
 implements a simulation for hiring items from a movie store called MovieMaster.  
 The staff at MovieMaster will need to be able to maintain the details for rental items that are available for 
